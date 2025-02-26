@@ -1,7 +1,5 @@
 package com.elderforge.enchantLimiter;
 
-import com.elderforge.enchantLimiter.EnchantApplyListener;
-import com.elderforge.enchantLimiter.EnchantPrepareListener;
 import org.bukkit.Bukkit;
 import org.bukkit.enchantments.Enchantment;
 import org.bukkit.plugin.java.JavaPlugin;

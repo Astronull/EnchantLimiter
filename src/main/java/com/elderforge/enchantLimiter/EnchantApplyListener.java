@@ -1,7 +1,5 @@
 package com.elderforge.enchantLimiter;
 
-import com.elderforge.enchantLimiter.EnchantLimiter;
-import com.elderforge.enchantLimiter.EnchantPrepareListener;
 import org.bukkit.enchantments.Enchantment;
 import org.bukkit.enchantments.EnchantmentOffer;
 import org.bukkit.entity.Player;
