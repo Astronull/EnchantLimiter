@@ -1,0 +1,6 @@
+name: EnchantLimiter
+main: com.elderforge.enchantLimiter.EnchantLimiter
+version: 1.0
+api-version: 1.19
+author: YourName
+description: Limits enchantments available from the Enchantment Table based on config.yml
